@@ -1,6 +1,6 @@
 # rproxy
 
-- Rewriting reverse proxy library for Go -
+## Rewriting reverse proxy library for Go
 
 This is based on the code in the go standard library at net/http/httputil/reverseproxy.go
 
